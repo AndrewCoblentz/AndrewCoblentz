@@ -28,8 +28,9 @@ header {
     background-color: #404241;
     color: #fff;
     text-align: center;
-/*     padding: 20px 1px;*/ 
-    margin-top: 20px; 
+    padding-top:20px; 
+    height: 120px;
+    text-align: center;
 }
 
 header h1 {
