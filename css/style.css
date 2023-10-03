@@ -64,7 +64,9 @@ main {
     text-align: center;
     color: #fff;
     padding: 2rem;
-    
+
+
+    border-radius: 10px; /* Adjust the value as needed */
 }
 
 
