@@ -211,6 +211,10 @@ footer {
     margin-left: 10px;
 }
 
+.address-container {
+   color: white; 
+}
+
 .image-section img {
     max-width: 130%; /* Ensure the image doesn't exceed its container's width */
 }
