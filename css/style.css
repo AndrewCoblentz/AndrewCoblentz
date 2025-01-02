@@ -196,9 +196,10 @@ footer {
 }
 
 .projects {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); 
-    grid-gap: 2px; 
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); /* Larger panels */
+        gap: 20px; /* Space between panels */
+        padding: 20px;
 }
 .project-panel1 {
     display: flex;
