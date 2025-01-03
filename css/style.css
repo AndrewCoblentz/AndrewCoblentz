@@ -197,7 +197,7 @@ footer {
 
 .projects {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(1000px, 1fr)); /* Larger panels */
+        grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); /* Larger panels */
         gap: 20px; /* Space between panels */
         padding: 20px;
 }
